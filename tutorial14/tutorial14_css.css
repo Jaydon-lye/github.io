@@ -1,0 +1,25 @@
+body {
+background-color:#DFD0B8;
+margin-top:50;
+margin-left:300;
+margin-right:300;
+}
+
+h1 {
+text-align:center;
+color:#222831;
+font-family:Garamond;
+text-decoration:underline;
+}
+
+h2 {
+color:#393E46;
+}
+
+font {
+color:#222831;
+font-size:18;
+}
+
+p {text-align:justified;}
+
